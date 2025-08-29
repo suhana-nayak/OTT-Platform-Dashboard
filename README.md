@@ -70,8 +70,8 @@ To provide a **single source of truth** for OTT stakeholders, enabling them to:
 
 ## 6. Screenshots / Demos  
 ### Revenue Dashboard  
-![Revenue Dashboard Preview](Snapshot%20of%20Revenue%20Dashboard- BABA TV.png)  
+![Revenue Dashboard Preview](Snapshot%20of%20Revenue%20Dashboard-%20BABA%20TV.png)  
 
 ### Marketing Dashboard  
-![Marketing Dashboard Preview](Snapshot%20of%20Marketing%20Dashboard- BABA TV.png)  
+![Marketing Dashboard Preview](Snapshot%20of%20Marketing%20Dashboard-%20BABA%20TV.png)  
 
